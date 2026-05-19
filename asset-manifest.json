@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myfirstreactapp/static/css/main.bc7a4b37.css",
-    "main.js": "/myfirstreactapp/static/js/main.0c67e804.js",
+    "main.js": "/myfirstreactapp/static/js/main.0da78ead.js",
     "static/js/453.78b57cc2.chunk.js": "/myfirstreactapp/static/js/453.78b57cc2.chunk.js",
     "static/media/pizzaLeft.jpg": "/myfirstreactapp/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
     "static/media/vegan.jpg": "/myfirstreactapp/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
@@ -15,11 +15,11 @@
     "static/media/pedrotechspecial.jpg": "/myfirstreactapp/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/myfirstreactapp/index.html",
     "main.bc7a4b37.css.map": "/myfirstreactapp/static/css/main.bc7a4b37.css.map",
-    "main.0c67e804.js.map": "/myfirstreactapp/static/js/main.0c67e804.js.map",
+    "main.0da78ead.js.map": "/myfirstreactapp/static/js/main.0da78ead.js.map",
     "453.78b57cc2.chunk.js.map": "/myfirstreactapp/static/js/453.78b57cc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc7a4b37.css",
-    "static/js/main.0c67e804.js"
+    "static/js/main.0da78ead.js"
   ]
 }
