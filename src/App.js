@@ -5,17 +5,18 @@ import Home from "./pages/Home";
 import Menu from "./pages/Menu";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
-import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
+import {  Route, Routes, Navigate } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-       <BrowserRouter>
+      
       <Navbar />
 
       <Routes>
+    
         {/* default homepage */}
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         {/* other pages */}
         <Route path="/menu" element={<Menu />} />
         <Route path="/about" element={<About />} />
@@ -25,7 +26,7 @@ function App() {
       </Routes>
 
       <Footer />
-    </BrowserRouter>
+   
     </div>
   );
 }
